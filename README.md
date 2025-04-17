@@ -82,7 +82,8 @@
 
 ![](https://github-contributor-stats.vercel.app/api?username=Nahomi-Aparicio&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-<img src="" width="400">
+
+
 
 
 
