@@ -10,7 +10,7 @@
 </div>
 
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+<h2> About Me </h2>
 
 <img width="35%" align="right" src="https://raw.githubusercontent.com/Nahomi-Aparicio/Nahomi-Aparicio/refs/heads/main/Img/Aruyomi.png" />
 <br/>
@@ -72,7 +72,7 @@
 # Mis estadisticas⭐️ 
 
 | ![Nahomi-Aparicio github stats](https://github-readme-stats.vercel.app/api?username=Nahomi-Aparicio&show_icons=true&theme=tokyonight) | ![Nahomi-Aparicio GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nahomi-Aparicio&theme=tokyonight) |
-| --- | --- |
+| <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px> | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nahomi-Aparicio&layout=compact&theme=algolia&locale=es&hide=batchfile,makefile,c) |![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 <br>
 
