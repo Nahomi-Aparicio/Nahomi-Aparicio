@@ -78,13 +78,11 @@
 
 
 ### 🔝 Top Contributed Repo
-<img width="35%" align="left" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" />
-
-![](https://github-contributor-stats.vercel.app/api?username=Nahomi-Aparicio&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-<img src="" width="400">
-
+<img width="35%" align="right"  src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" />
+<br/>
+<br/>
+![contribuir](https://github-contributor-stats.vercel.app/api?username=Nahomi-Aparicio&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 
-
+<br/>
 
