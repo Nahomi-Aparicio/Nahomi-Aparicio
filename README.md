@@ -73,7 +73,7 @@
 
 | ![Nahomi-Aparicio github stats](https://github-readme-stats.vercel.app/api?username=Nahomi-Aparicio&show_icons=true&theme=tokyonight) | ![Nahomi-Aparicio GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nahomi-Aparicio&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nahomi-Aparicio&layout=compact&theme=algolia&locale=es) |![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nahomi-Aparicio&layout=compact&theme=algolia&locale=es&hide=batchfile,makefile,c) |![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 <br>
 
 
